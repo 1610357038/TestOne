@@ -18,5 +18,8 @@ class Index
     public  function  create(){
         echo '这里是测试1';
     }
+    public  function  create1(){
+        echo '这里是测试2';
+    }
 
 }
