@@ -22,4 +22,8 @@ class Index
         echo '这里是测试2';
     }
 
+    public function edit(){
+        echo "ni hao a";
+    }
+
 }
