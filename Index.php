@@ -36,10 +36,12 @@ class Index
         echo "ddd";
     }
 
-
-
     public function edit2(){
         echo "ni hao 2";
+
+    }
+    public function edit3(){
+        echo "ni hao 3";
 
     }
 
