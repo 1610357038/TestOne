@@ -10,7 +10,10 @@ class Index
 {
     public  function  index(){
         echo '哈哈哈哈哈小智障';
+    }
 
+    public function add(){
+        echo "这里是添加啊！！";
     }
     public  function  create(){
         echo '这里是测试1';
