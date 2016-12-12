@@ -12,5 +12,8 @@ class Index
         echo '哈哈哈哈哈小智障';
 
     }
+    public  function  create(){
+        echo '这里是测试1';
+    }
 
 }
