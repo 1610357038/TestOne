@@ -54,4 +54,9 @@ class Index
         echo "aaa";
     }
 
+    public function test4()
+    {
+        echo "aaa";
+    }
+
     }
