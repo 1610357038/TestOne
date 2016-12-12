@@ -41,5 +41,10 @@ class Index
     }
 
 
+    public function test3()
+    {
+        echo "aaa";
 
-}
+    }
+
+    }
