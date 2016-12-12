@@ -53,5 +53,9 @@ class Index
     {
         echo "aaa";
     }
+    public function edit4()
+    {
+        echo "aaa4";
+    }
 
     }
