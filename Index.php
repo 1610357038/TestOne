@@ -10,6 +10,7 @@ class Index
 {
     public  function  index(){
         echo '哈哈哈哈哈小智障';
+
     }
 
 }
