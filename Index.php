@@ -36,6 +36,10 @@ class Index
         echo "ddd";
     }
 
+    public function test2(){
+        echo "aaa";
+    }
+
 
 
 }
