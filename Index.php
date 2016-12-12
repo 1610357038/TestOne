@@ -21,9 +21,14 @@ class Index
     public  function  create1(){
         echo '这里是测试2';
     }
+    public  function  create2(){
+        echo '这里是测试2';
+    }
 
     public function edit(){
         echo "ni hao a";
     }
-
+    public function edit1(){
+        echo "ni hao a";
+    }
 }
