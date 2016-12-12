@@ -26,8 +26,4 @@ class Index
         echo "ni hao a";
     }
 
-    public function delete(){
-        echo "hhhhhhhhhhhhhhh";
-    }
-
 }
