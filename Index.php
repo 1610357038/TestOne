@@ -57,6 +57,10 @@ class Index
     {
         echo "aaa4";
     }
+    public function edit5()
+    {
+        echo "aaa4";
+    }
 
     public function test4()
     {
