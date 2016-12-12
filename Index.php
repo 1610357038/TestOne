@@ -32,4 +32,8 @@ class Index
         echo "ni hao a";
     }
 
+    public function edit2(){
+        echo "ni hao 2";
+    }
+
 }
