@@ -32,4 +32,10 @@ class Index
         echo "ni hao a";
     }
 
+    public function test(){
+        echo "ddd";
+    }
+
+
+
 }
